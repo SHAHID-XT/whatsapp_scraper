@@ -1,0 +1,6 @@
+seleniumbase
+selenium
+beautifulsoup4
+python-dateutil
+requests
+python-dotenv
